@@ -1,0 +1,61 @@
+{
+    "schema_version":  "1.0",
+    "manifest_version":  "1.0.0",
+    "generated_at":  "2026-11-21T13:18:15+09:00",
+    "repository":  "GilSeopHan/aikjvplus-data",
+    "distribution_status":  "public_anonymous_https",
+    "minimum_app_data_schema":  "1.0",
+    "files":  [
+                  {
+                      "data_name":  "성경사전 버전 메타데이터",
+                      "file_name":  "dictionary_version.json",
+                      "area":  "dictionary",
+                      "data_version":  "0.2.2-review",
+                      "schema_version":  "1.0",
+                      "updated_at":  "2026-11-21T13:18:14+09:00",
+                      "size_bytes":  171,
+                      "sha256":  "23c1467e5e9959666b56a7f75114d4710f00e22b6e845abc99bc70b469ec8c3d",
+                      "download_url":  "https://raw.githubusercontent.com/GilSeopHan/aikjvplus-data/main/dictionary_version.json",
+                      "display_menu":  "성경사전 관리",
+                      "verification_status":  "metadata",
+                      "app_support":  "supported",
+                      "auto_download":  true,
+                      "source":  "GilSeopHan/aikjvplus-data",
+                      "license":  "프로젝트 버전·항목 수 메타데이터; 성경 본문 및 사전 내용 미포함"
+                  },
+                  {
+                      "data_name":  "기존 NIV 배교 자료",
+                      "file_name":  "niv_apostasy.json",
+                      "area":  "legacy_niv_apostasy",
+                      "data_version":  "1",
+                      "schema_version":  "1",
+                      "updated_at":  "2026-11-21T13:18:15+09:00",
+                      "size_bytes":  202069,
+                      "sha256":  "1469ac6da7e6973691fb995d34f07b4747a0500e348d33f2e1788dbb5db59ea1",
+                      "download_url":  "https://raw.githubusercontent.com/GilSeopHan/aikjvplus-data/main/niv_apostasy.json",
+                      "display_menu":  "앱 지원 대기",
+                      "verification_status":  "rights_review_required",
+                      "app_support":  "unsupported",
+                      "auto_download":  false,
+                      "source":  "GilSeopHan/aikjvplus-data",
+                      "license":  "기존 공개 파일; 앱 자동 적용 및 재배포 권한 확인 대기"
+                  },
+                  {
+                      "data_name":  "기존 공개 저장소 버전",
+                      "file_name":  "version.json",
+                      "area":  "legacy_metadata",
+                      "data_version":  "1",
+                      "schema_version":  "1",
+                      "updated_at":  "2026-11-21T13:18:15+09:00",
+                      "size_bytes":  141,
+                      "sha256":  "fb6ab5bfbabb406c3453b535e59ebac6c3d84686b118d8ff5ecef88ed1b9a4ed",
+                      "download_url":  "https://raw.githubusercontent.com/GilSeopHan/aikjvplus-data/main/version.json",
+                      "display_menu":  "앱 지원 대기",
+                      "verification_status":  "legacy_metadata",
+                      "app_support":  "unsupported",
+                      "auto_download":  false,
+                      "source":  "GilSeopHan/aikjvplus-data",
+                      "license":  "기존 공개 저장소 메타데이터"
+                  }
+              ]
+}
